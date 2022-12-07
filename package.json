@@ -53,7 +53,6 @@
     "typescript": "^3.7.3"
   },
   "scripts": {
-    "compile": "hardhat compile",
-    "test": "hardhat test"
+    "compile": "hardhat compile"
   }
 }
