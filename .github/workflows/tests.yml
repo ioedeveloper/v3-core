@@ -15,6 +15,6 @@ jobs:
       - name: Run SUT Action
         uses: ioedeveloper/eth-ts-test@v0.13.2-dev
         with:
-          test-path: 'test/BitMath.spec.ts'
+          test-path: 'test'
           contract-path: 'contracts'
           compiler-version: '0.7.6'
