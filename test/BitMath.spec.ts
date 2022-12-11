@@ -1,6 +1,7 @@
 import { expect } from './shared/expect'
 import { BitMathTest } from '../typechain/BitMathTest'
-import { ethers, waffle } from 'hardhat'
+import { ethers, waffle } from 'sol-test-helper'
+// import { ethers, waffle } from 'hardhat'
 import snapshotGasCost from './shared/snapshotGasCost'
 
 const { BigNumber } = ethers
