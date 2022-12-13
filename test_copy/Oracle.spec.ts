@@ -1,5 +1,5 @@
 import { BigNumber, BigNumberish, Wallet } from 'ethers'
-// import { ethers, waffle } from 'hardhat'
+import { ethers, waffle } from 'hardhat'
 // import { OracleTest } from '../typechain/OracleTest'
 // import checkObservationEquals from './shared/checkObservationEquals'
 // import { expect } from './shared/expect'
